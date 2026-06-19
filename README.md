@@ -59,7 +59,7 @@ streamlit run app.py
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/resume-builder.git
+git clone https://github.com/iprashantraj/resume-builder.git
 cd resume-builder
 
 # 2. Create a virtual environment (recommended on macOS)
