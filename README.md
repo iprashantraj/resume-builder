@@ -12,8 +12,7 @@ data — improving their job and internship opportunities.
 
 ## 🔗 Demo
 
-<!-- Replace with your live URL after deploying to Streamlit Cloud -->
-🚀 **[Live Demo](#)** *(deploy to Streamlit Cloud — see instructions below)*
+🚀 **[Live Demo](https://iprashantraj-resume-builder.streamlit.app/)** — try it now, no setup needed
 
 **Local preview:**
 
